@@ -43,7 +43,7 @@ nav li {
 .fotografo {
     width: 60rem;
     height: 19rem;
-    background-image: url(/img/6.jpg);
+    background-image: url(./img/6.jpg);
 }
 .fotografo img {
     width: 16rem;
@@ -72,7 +72,7 @@ nav li {
     width: 60rem;
     height: 19rem;
     margin-top: -1rem;
-    background-image: url(/img/16.jpg);
+    background-image: url(./img/16.jpg);
 }
 .fotos img {
     width: 7rem;
@@ -111,7 +111,7 @@ nav li {
     width: 60rem;
     height: 21rem;
     margin-top: -1rem;
-    background-image: url(/img/16.jpg);
+    background-image: url(./img/16.jpg);
 }
 .text3 {
     width: 20rem;
