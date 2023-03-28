@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: rgb(0, 0, 0);
+    height: 50rem;
+}
+.container {
+    width: 60rem;
+    height: 58rem;
+    margin-left: 8rem;
+    margin-top: 1rem;
+}
+.menu {
+    margin-top: -19.2rem;
+    width: 60rem;
+    align-items: center;
+    padding-left: 8rem;
+    padding-top: 1rem;
+}
+nav li {
+    display: inline;
+}
+.menu a {
+    padding: 1rem;
+    color: white;
+    text-decoration: none;
+}
+.menu span {
+     color: red;
+}
+.lateral {
+    color: white;
+    margin-top: 44rem;
+    transform: rotate(90deg);
+    margin-left: -55rem;
+    letter-spacing: 15px;
+    opacity: 0.1;
+    font-family: 'Audiowide', cursive;
+    font-size: 4.8rem;
+}
+.fotografo {
+    width: 60rem;
+    height: 19rem;
+    background-image: url(/img/6.jpg);
+}
+.fotografo img {
+    width: 16rem;
+    height: 14rem;
+    padding-left: 8rem;
+    padding-top: 5rem;
+}
+.text {
+    width: 20rem;
+    height: 10rem;
+    margin: 30rem;
+    margin-top: 1rem;
+}
+.text .nome {
+    color: rgb(255, 255, 255);
+    padding: 2rem;
+    font-size: 20px;
+    letter-spacing: 8px;
+}
+.text p {
+    letter-spacing: .2rem;
+    font-size: 10px;
+    color: white;
+}
+.fotos {
+    width: 60rem;
+    height: 19rem;
+    margin-top: -1rem;
+    background-image: url(/img/16.jpg);
+}
+.fotos img {
+    width: 7rem;
+    padding-left: 48rem;
+    margin-top: -53.9rem;
+    padding-bottom: 3.9rem;
+}
+.fotos span img {
+    width: 10rem;
+    padding-left: 38rem;
+    padding: 37rem;
+}
+.text2 {
+    width: 20rem;
+    margin: 5rem;
+    margin-top: 1rem;
+}
+.text2 .nome2 {
+    color: rgb(95, 95, 95);
+    padding: 2rem;
+    font-size: 20px;
+    letter-spacing: 8px;
+}
+.text2 p {
+    letter-spacing: .2rem;
+    font-size: 10px;
+    color: rgb(112, 111, 111);
+}
+.text2 p span {
+    color: red;
+    display: flex;
+    margin-left: 4rem;
+    font-size: 2rem;
+}
+.foto3 {
+    width: 60rem;
+    height: 21rem;
+    margin-top: -1rem;
+    background-image: url(/img/16.jpg);
+}
+.text3 {
+    width: 20rem;
+    margin: 30rem;
+    margin-top: -20rem;
+    padding-top: 7rem;
+}
+.text3 p {
+    letter-spacing: .2rem;
+    font-size: 10px;
+    color: rgb(167, 166, 166);
+    margin-top: -2rem;
+}
+.text3 p span {
+    color: rgb(255, 255, 255);
+    display: flex;
+    margin-left: -20rem;
+    font-size: 4rem;
+    margin-top: 3rem;
+}
+.text3 .nome3 {
+    letter-spacing: 2rem;
+    color: rgb(112, 111, 111);
+    font-size: 1rem;
+    display: flex;
+    margin-left: -22rem;
+}
+.ultima1 img {
+    width: 13rem;
+    margin-left: 78.4%;
+    margin-top: 1rem;
+}
+.footer {
+    height: 30rem;
+    border: 0;
+    border-top: 1px solid #CCC;
+    margin-top: -2rem;
+}
+@media (max-width: 510px){
+
+
+
+
+}
