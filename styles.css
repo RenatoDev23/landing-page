@@ -248,13 +248,14 @@ nav li {
 
 
 
-@media (max-width: 510px){
+@media (max-width: 617px){
 
    
 
     .fotografo {
         width: 22.4rem;
         height: 15rem;
+        border: 1px solid blue;
 
     } 
     .menu {
@@ -394,9 +395,9 @@ nav li {
     
     /*final da pagina*/
     .foto3 {
-        width: 22.4rem;
+        width: 38.5rem;
         height: 14rem;
-        margin-top: 4.4rem;
+        margin-top: -10.8rem;
 
 
 
